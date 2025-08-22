@@ -18,7 +18,7 @@ Guided by my values of protection and integrity, I am committed to supporting or
 ---
 
 ## 🌱 Currently Learning  
-- Google Cybersecurity Professional Certificate (Coursera)  
+- Full stack devolopment
 - TryHackMe  
 - Bash  
 
