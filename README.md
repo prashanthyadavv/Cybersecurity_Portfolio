@@ -24,6 +24,6 @@ Guided by my values of protection and integrity, I am committed to supporting or
 
 ## 📫 Connect With Me  
 - [LinkedIn](https://www.linkedin.com/in/prashanth-yadav-pittakala)  
-- [Email](mailto:prashanthyadavvv@gmail.com)  
+- [Email](mailto:prashanthyadavvv@gmail.com) (prashanthyadavvv@gmail.com)
 - GitHub: [@prashanthyadavv](https://github.com/prashanthyadavv)  
 
